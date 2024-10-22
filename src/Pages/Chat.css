@@ -173,7 +173,7 @@ span, .send-button,.mic-button,
   border: none;
   border-radius: 50%;
   padding: 10px;
-  */font-size: 16px;/*
+  font-size: 16px;
   cursor: pointer;
   position: relative; */
 }
@@ -194,7 +194,7 @@ span, .send-button,.mic-button,
   margin-bottom: 10px; */
   opacity: 0;
   transition: opacity 0.3s;
-  font-size: 16px;
+  /* font-size: 16px; */
 }
 
 /* Show the bubble when hovering over the button */
